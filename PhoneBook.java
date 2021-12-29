@@ -113,7 +113,7 @@ public class PhoneBook extends PhoneBookEntry {
 		
 		System.out.println("1. Add an Entry");
 		System.out.println("2. Edit an Entry");
-		System.out.println("3. Display the Information of a Entry");
+		System.out.println("3. Display the Information of an Entry");
 		System.out.println("4. Assign Zip Code");
 		System.out.println("5. Exit");
 				
