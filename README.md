@@ -14,7 +14,7 @@ The user will be able to:
 4. Assign Zip Code
 5. Exit
 
-Selection one will add an entry. Each phone book entry will house an entry id, first name, last name, email, zip code, and phone number. The user will be prompted to input all the information into the PhoneBookEntry[] array.
+Selection one will add an entry. Each phone book entry will house an entry id, first name, last name, email, zip code, and phone number. The user will be prompted to input all the information into an array.
 
 Selection two will edit an entry. The user will be asked the id of the desired entry. If the id inputted matches an entry within the phone book, the user will be prompted to edit the desired entry.
 
